@@ -116,3 +116,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+jm-notion-tool.code-workspace
